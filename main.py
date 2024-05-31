@@ -39,7 +39,7 @@ def main():
         <div style="text-align: center;">
             <h1>FJ InsightPro Analytics</h1>
             <p><strong>Welcome to the FJ InsightPro Analytics!</strong></p>
-            <p>This web application enables you to upload a CSV file and generate an enhanced Pandas Profiling report.</p>
+            <p>This web application enables you to upload a CSV file and generate an enhanced report.</p>
         </div>
         """,
         unsafe_allow_html=True
